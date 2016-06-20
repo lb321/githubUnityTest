@@ -28,3 +28,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.info
+githubMetUnity/Library/*
+githubMetUnity/ProjectSettings/*
+githubMetUnity/Temp/*
+githubMetUnity/Library/*
+
